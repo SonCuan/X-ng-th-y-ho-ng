@@ -6,92 +6,12 @@
       "id": 1
     },
     {
-      "email": "quannsph45143@fpt.edu.vn",
-      "password": "$2a$10$lBLxwRcP9BdQiepYx7D1fu5at.hC/wPajRqZDXQrxKga5vUzBEWom",
+      "email": "quan12@gmail.com",
+      "password": "$2a$10$WHGfGxOSALwaeuM2RkzNuez2KLb0GjtcIKwItdw5hVy6LoskBeHLG",
       "id": 2
-    },
-    {
-      "email": "quandz2611@gmail.com",
-      "password": "$2a$10$vNfGYLZQNlEN4rcuvbLNh.3fJdkhxH1pGEdauybm9qwAHJ.Pb23EW",
-      "id": 3
-    },
-    {
-      "email": "quannsph2611@gmail.com",
-      "password": "$2a$10$9xr1gytIcrPCOOIFV2ZbDeUmahD69lGtJdu2qMJ1EldckimgAU7UO",
-      "id": 4
-    },
-    {
-      "email": "quanasd2611@gmail.com",
-      "password": "$2a$10$CKizvy6dR/lreaTPdboI2uJkWx/tPjQutdH5gYKRrB5R5x.RAmB5K",
-      "id": 5
-    },
-    {
-      "email": "hihi@gmail.com",
-      "password": "$2a$10$ecLj6Zt6.RLuXxFaTetBIus6uO4Vv73RDqK/uH.8qCjd37WTbANw2",
-      "id": 6
-    },
-    {
-      "email": "nguyensonquan2611@gmail.com",
-      "password": "$2a$10$a7I3gCmndcX.Ew0/FD08PeX/zktvYPSgewxid.sYCbuh6I6dTX6aK",
-      "id": 7
-    },
-    {
-      "email": "minh123@gmail.com",
-      "password": "$2a$10$TjyLypWxtUX7gnahzkeWU.NhFQmeVjRL0ujAvc09.P2r5UW6D50Pe",
-      "id": 8
-    },
-    {
-      "email": "hiha123@gmail.com",
-      "password": "$2a$10$OhXx722q63nwls1S9HAeTOxBeuoNaybdmQrr0jE13YSs9sLqW3BLe",
-      "id": 9
-    },
-    {
-      "email": "soncuan2611@gmail.com",
-      "password": "$2a$10$Aa72/sGbR8E6Aqlq71rd3uu.Zt3uYkUtbqbxpdfEwAcOPjH2/p21i",
-      "id": 10
-    },
-    {
-      "email": "haha21@gmail.com",
-      "password": "$2a$10$kOZjuSssPE415MFeQhxSouj/cOGO8i58dybhOeVwu07KxpcN52JhW",
-      "id": 11
-    },
-    {
-      "email": "hoho@gmail.com",
-      "password": "$2a$10$gsI0vhzFFDD2mHkbNOycyelFZAJGCPppv2S7lLE9ECgugQzS1TmKK",
-      "id": 12
-    },
-    {
-      "email": "hiha@gmail.com",
-      "password": "$2a$10$Rm19.7la8QE1fHTHmg2mQesi54Q2J4QSmdKBkTLf49DAfQsMCr0aK",
-      "id": 13
-    },
-    {
-      "email": "trashy5@gmail.com",
-      "password": "$2a$10$4HWBm1c385PUEPGmzqCzFOePRI65H.ZErz6fWk9AuMUmzGsBCLLpS",
-      "id": 14
-    },
-    {
-      "email": "conmethanghopy5@gmail.com",
-      "password": "$2a$10$Ntcjpp5A/QV0n3qjGK0tUeY9DNcguu8jOQMf9NgwzYZZ2/48CY0DC",
-      "id": 15
     }
   ],
   "products": [
-    {
-      "id": 3,
-      "title": "Iphone đẳng cấp thế giới",
-      "description": "trash Y5",
-      "price": 20000,
-      "discountPercentage": 15.46,
-      "rating": 4.09,
-      "stock": 36,
-      "brand": "Samsung",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/3/1.jpg"
-      ]
-    },
     {
       "id": 4,
       "title": "OPPOF19",

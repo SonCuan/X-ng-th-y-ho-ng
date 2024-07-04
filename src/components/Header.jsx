@@ -8,8 +8,8 @@ export default function Header() {
     <header>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/">
-            Home
+          <a className="navbar-brand" href="/admin/doashboard">
+            Admin
           </a>
           <button
             className="navbar-toggler"
@@ -27,18 +27,6 @@ export default function Header() {
               <a className="nav-link a-hover" href="/Login">
                 Login
               </a>
-              <a className="nav-link a-hover" href="/About">
-                About
-              </a>
-              <a className="nav-link a-hover" href="/Blog">
-                Blog
-              </a>
-              <a className="nav-link a-hover" href="*">
-                Back
-              </a>
-              <a className="nav-link a-hover" href="/Admin">
-                Admin
-              </a>
               <a className="nav-link a-hover" href="/Register">
                 Register
               </a>
@@ -49,3 +37,4 @@ export default function Header() {
     </header>
   );
 }
+
