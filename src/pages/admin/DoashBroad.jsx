@@ -7,13 +7,10 @@ import api from "../../axios";
 const DoashBroad = () => {
     const {state, dispatch} = useContext(ProductContext);
     function onDeletProduct(id){
-
         if(confirm("Ban muon xoa san pham nay")){
              api.delete(`/products/${id}`);
-            dispatch({type: "DELETE_PRODUCT", payload: id});
-            
-        }
-       
+            dispatch({type: "DELETE_PRODUCT", payload: id});       
+        } 
     }
   return (
     <>

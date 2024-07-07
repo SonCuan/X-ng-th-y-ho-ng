@@ -84,7 +84,7 @@ const AuthForm = ({ isRegister }) => {
           </button>
          
           {isRegister && (
-            <Link to="/Login">Đã có tài khoản, chuyển sang đăng nhập</Link>
+           <Link to="/Login">Đã có tài khoản, chuyển sang đăng nhập</Link>
           )}
         </div>
       </form>
